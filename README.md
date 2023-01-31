@@ -1,4 +1,4 @@
-## Bem-vindo ao Perfil do Eduardo Schutz de Santis Desenvolvedor Web Front-End.
+## Bem-vindo ao Perfil do Eduardo Schutz de Santis.
 
 <div>
   <a href="https://github.com/essantis">
